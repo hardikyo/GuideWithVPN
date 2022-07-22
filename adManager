@@ -1,6 +1,21 @@
 {
-  "courseName": "Fork CPP",
-  "courseimg": "https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
-  "courseMode": "Online Batch",
-  "courseTracks": "6 Tracks"
+  "webify": "0",
+  "qureka": "0",
+  "gemezop": "0",
+  "webify_exit": "0",
+  "qureka_exit": "0",
+  "gemezop_exit": "0",
+  "webify_link": "0",
+  "qureka_link": "0",
+  "gemezop_link": "0",
+  "facebook_banner": "0",
+  "adx_banner": "0",
+  "startapp_banner": "0",
+  "facebook_native": "0",
+  "adx_native": "0",
+  "startapp_native": "0",
+  "facebook_interstial": "0",
+  "adx_interstial": "0",
+  "startapp_interstial": "0"
+  
 }
