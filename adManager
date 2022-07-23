@@ -9,13 +9,14 @@
   "qureka_link": "https://659.live.qureka.com/",
   "gamezop_link": "https://google.co.in",
   "facebook_banner": "1",
-  "adx_banner": "0",
+  "adx_banner": "1",
   "startapp_banner": "1",
   "facebook_native": "1",
   "adx_native": "0",
   "startapp_native": "1",
   "facebook_interstial": "0",
   "adx_interstial": "0",
-  "startapp_interstial": "1"
+  "startapp_interstial": "1",
+  "adx_banner_id": "/6499/example/banner"
   
 }
