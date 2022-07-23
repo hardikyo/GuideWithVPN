@@ -14,8 +14,8 @@
   "facebook_native": "1",
   "adx_native": "0",
   "startapp_native": "1",
-  "facebook_interstial": "1",
+  "facebook_interstial": "0",
   "adx_interstial": "0",
-  "startapp_interstial": "0"
+  "startapp_interstial": "1"
   
 }
